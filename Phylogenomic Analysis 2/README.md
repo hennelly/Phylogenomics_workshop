@@ -10,7 +10,8 @@
       student's interest and conservation genomics
     - Treemix -> personally not a huge fan, could be spurious results that are difficult to explain, but it is a nice visual analysis to understand gene flow impact on evolutionary relationships
 
- 2.) Or do the mitochondrial tree for Phylogenomics 1, and the nuclear tree for Phylogenomics 2. For people with little experience with phylogenetics, doing the one-locus mtDNA tree first might be helpful, and can include some insightul discussions on comparing mtDNA and the nuclear tree, limitations with mtDNA.  
+ 2.) Or do the mitochondrial tree for Phylogenomics 1, and the nuclear tree for Phylogenomics 2. For people with little experience with phylogenetics, doing the one-locus mtDNA tree first might be helpful, both conceptually and can include some insightul discussions on comparing mtDNA and the nuclear tree, limitations with mtDNA.  
 
+3.) Timing the divergence - would be nice, but this is quite difficult and needs some additional sources of data (fossils, etc) that will need to be researched. Might be too much for the students. 
 
 
