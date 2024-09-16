@@ -12,6 +12,6 @@
 
  2.) Or do the mitochondrial tree for Phylogenomics 1, and the nuclear tree for Phylogenomics 2. For people with little experience with phylogenetics, doing the one-locus mtDNA tree first might be helpful, both conceptually and can include some insightul discussions on comparing mtDNA and the nuclear tree, limitations with mtDNA.  
 
-3.) Timing the divergence - would be nice, but this is quite difficult and needs some additional sources of data (fossils, etc) that will need to be researched. 
+3.) Timing the divergence - would be nice, but this is quite difficult and needs some additional sources of data (fossils, etc) that will need to be researched. There is SNAPP via Beast that does timing, but I haven't used it. 
 
 
