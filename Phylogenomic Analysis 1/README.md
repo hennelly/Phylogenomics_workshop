@@ -1,7 +1,5 @@
 # Phylogenomics Analysis 1
 
-Question -> Do we want infer the mtDNA tree? 
-
 ## Inferring the maximum likelihood phylogeny using the nuclear genome
 We will infer a maximum likelihood phylogenetic tree of the nuclear genomic data using 17 different species of birds within the family Gruidae. This will allow us to assess the evolutionary relationship of the Guam Rail to other closely related Rail species. 
 
