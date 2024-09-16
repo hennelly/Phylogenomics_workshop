@@ -12,3 +12,8 @@
   - phylogenetic discordance - what is it? why is it important to keep in mind? how does it arise?
 - Types of ways to infer phylogenies
    - maximum likelihood (ML), bayesian methods, using gene trees (quartet scores in ASTRAL)
+- More detail into the methods
+   - Alignment, etc
+ 
+- Show an example phylogeny with nodes, bootstrap values
+   - Go through exactly what the branch lengths mean, node support means, how node support is inferred, confidence in phylogeny 
