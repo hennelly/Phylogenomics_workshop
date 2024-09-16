@@ -25,7 +25,7 @@ With five outgroups: Sungrebe (Heliornis fulica), Whooping crane (Grus americana
 ** Question for Klaus and Taylor --  where to start with this? VCF stage or BWA alignments). 
 
 ### Pre-filtering to keep high quality SNPs
-We can use a VCF where each species genome is aligned and completed variant calling to the Guam Rail. First we will filter the VCF to obtain only high quality SNPs.
+We can use a VCF where each species genome is aligned and completed variant calling to the Guam Rail reference genome. First we will filter the VCF to obtain only high quality SNPs.
 
 Let's change directory to our xxxx folder and copy the variant calling file (vcf) to this folder. The file is located here: 'pool/genomics/ariasc/SMSC_2023/mapping/xxx/xxx.vcf'
 
