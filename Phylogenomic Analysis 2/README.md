@@ -3,6 +3,7 @@
 ** Klaus and Taylor -> Ideas for this? 
 
 1.) Incorporating gene flow + phylogenetic discordance
+
     - ASTRAL tree -> although I suspect there to be little gene flow/discordance between the Rails. It is nice for teaching about phylogenetic discordance. It is a bit cumbersome 
       with having to divide the genome and then use arrays to infer the each tree. 
     - Twisst -> this is a nice tool to understand what incomplete lineage sorting is, as well as what introgression along the genome looks like. Might not be the most applicable to 
